@@ -1,1 +1,3 @@
 nginx:latest
+openjdk:8
+openjdk:21
